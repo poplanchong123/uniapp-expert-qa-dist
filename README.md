@@ -4,6 +4,8 @@
 
 本仓库只放**已编译好的静态文件**，不含服务端代码，也不含任何可用密钥。业务数据全部在你自己的云环境里。
 
+<img src="https://raw.githubusercontent.com/poplanchong123/uniapp-expert-qa-dist/main/assets/poster.png" alt="产品海报：找到你的知识向导" width="760">
+
 线上演示：https://release.ask.poplanchong.top/release/product/showcase.html
 
 | 目录 | 是什么 | 入口 |
@@ -137,7 +139,7 @@ server {
 
 ### 联系方式
 
-<img src="./assets/qrcode.png" alt="客服二维码" width="220">
+<img src="https://raw.githubusercontent.com/poplanchong123/uniapp-expert-qa-dist/main/assets/qrcode.png" alt="客服二维码" width="220">
 
 扫码加客服微信（长按识别）
 
