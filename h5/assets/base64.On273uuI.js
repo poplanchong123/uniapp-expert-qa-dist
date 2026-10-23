@@ -1,0 +1,1 @@
+function e(e){return window.btoa(unescape(encodeURIComponent(e)))}function n(e){if(!e)return"";try{return decodeURIComponent(escape(window.atob(e)))}catch(n){return console.warn("[base64] atob decode error:",n),""}}export{n as b,e as s};

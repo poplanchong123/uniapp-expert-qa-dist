@@ -1,0 +1,1 @@
+import{_ as r,r as a,c as o,w as s,o as l,d as n,aH as t}from"./index-4WWyZAvq.js";const u=r({data:()=>({url:""}),onLoad(r){r&&r.url&&(this.url=decodeURIComponent(r.url))}},[["render",function(r,u,e,d,c,f){const i=t,m=a("global-ku-root");return l(),o(m,null,{default:s(()=>[n(i,{src:c.url},null,8,["src"])]),_:1})}]]);export{u as default};
